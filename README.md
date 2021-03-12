@@ -9,12 +9,7 @@ https://www.markdown.xyz/basic-syntax/
 ## coursera course
 https://www.coursera.org/learn/python-network-data/home/welcome
 1. dictionary
-- pandas, read local excel
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
-- pandas.read_excel('./cities.xlsx')
+- pandas, read local excel pandas.read_excel('./cities.xlsx')
 - key, value类型
 - create dictionary
 3. excel - to -python
