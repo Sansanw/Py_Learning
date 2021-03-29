@@ -8,13 +8,16 @@ https://www.markdown.xyz/basic-syntax/
 
 ## coursera course
 https://www.coursera.org/learn/python-network-data/home/welcome
+[python docs](https://docs.python.org/3/howto/regex.html)
 
-### wk02
-1. regular expressions
-2. extract data using regular expressions
+### wk02 regular expressions
+1. regular expressions, [quick guide](https://www.py4e.com/lectures3/Pythonlearn-11-Regex-Handout.txt)
+3. extract data using regular expressions
+
 
 ### wk03 networks and sockets
 1. console - info of 
+2. 
 ### wk04 
 1. ASCII: number - character -> unicode
 2. Retrieving Web Pages
